@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[29]:
-
-
 #Q1. Which keyword is used to create a function? Create a function to return a list of odd numbers in the range of 1 to 25.
 '''
 def keyboard is used to  create function
